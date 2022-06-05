@@ -17464,6 +17464,8 @@ width: 100%;
 
 .mobile-header__logo img {
     height: 40px;
+    max-width: 145px;
+    object-fit: contain;
 }
 
 /* abdo */
