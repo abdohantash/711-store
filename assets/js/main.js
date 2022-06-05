@@ -1217,6 +1217,9 @@
 
             owlCarousel.owlCarousel({
                 items: 1,
+                autoplay:true,
+                autoplayTimeout:7000,
+                autoplayHoverPause:true,
                 dots: true,
                 loop: true,
                 rtl: isRTL()
